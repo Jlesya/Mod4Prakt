@@ -1,12 +1,12 @@
 export const routes = [
 	{
 		id: 1,
-		title: 'My First Blog Post',
-		body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+		title: 'обо мне',
+		body: 'Я Каширских Олеся Алескеевна, учусь в 71 школе г.Астрахани в 8 классе, учусь в программе "Код будещего"для улучшения своих знаний по инфоратике. И в будующем хотела бы связать со своей профессию с информатикой. ',
 	},
     {
 		id: 2,
-		title: 'My Second Blog Post',
-		body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+		title: 'я',
+		body: 'я люблю слушать музыку, помогать родитеям, особенно маме с готовкой. У меня есть  две собаки и лник кот и все.',
 	}
 ];

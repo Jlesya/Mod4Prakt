@@ -9,7 +9,7 @@
 				<h2>{page.title}</h2>
 				<p>{page.body}</p>
 				<p class="readmore">
-					<a class="link" href={`/blog/posts/${page.id}`}> Читать далее </a>
+					<a class="link" href={`/blog/posts/${page.id}`}>  </a>
 				</p>
 			</div>
 		{/each}
@@ -40,6 +40,6 @@
 	}
 
 	.link {
-		color: rgb(10, 10, 139);
+		color: rgb(86, 86, 184);
 	}
 </style>

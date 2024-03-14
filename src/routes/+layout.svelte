@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Имя Фамилия</a>
+        <a href="/" class="nav-logo" title="Back to Homepage">Олеся Каширских</a>
         <div class="nav-links">
             {#each nav as link}
 				{#if link.isShow}
@@ -28,7 +28,12 @@
 			isShow: true
 		},
 		{
-			title: 'Контакты',
+			title: 'Портфолио',
+			href: '/project',
+			isShow: true
+		},
+		{
+			title: 'сзязаться со мной',
 			href: '/contact',
 			isShow: true
 		},
